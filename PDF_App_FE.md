@@ -1,11 +1,11 @@
-- B1: sudo apt update
-- B2: cd ~
-- B3: curl -sL https://deb.nodesource.com/setup_16.x -o nodesource_setup.sh
-- B4: nano nodesource_setup.sh
-- B5: sudo bash nodesource_setup.sh
-- B6: sudo apt install nodejs
-- B7: node -v
-- B8: sudo apt install git
-- B9: sudo npm install pm2 -g
+- B1: <b>sudo apt update</b> (install update cac package ubuntu)
+- B2: <b>cd ~</b>
+- B3: <b>curl -sL https://deb.nodesource.com/setup_16.x -o nodesource_setup.sh</b> (wget source nodejs)
+- B4: <b>nano nodesource_setup.sh</b>
+- B5: <b>sudo bash nodesource_setup.sh</b>
+- B6: <b>sudo apt install nodejs</b> (install nodejs)
+- B7: <b>node -v</b> (check version node)
+- B8: <b>sudo apt install git</b> (install git)
+- B9: <b>sudo npm install pm2 -g</b> (install pm2 runtime nodejs)
 - B10: clone repo github
-- B11: pm2 start index
+- B11: <b>pm2 start index</b> (run app node with pm2)
