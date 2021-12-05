@@ -13,3 +13,8 @@
   - B10.3: cd name_repo
   - B10.4: npm install
 - B11: <b>pm2 start server</b> (run app node with pm2)
+- B12: Mở port cho server với port mong muốn như 22 , 80 (http) hay 443(https)
+  - B12.1: sudo apt install ufw
+  - B12:2: sudo ufw allow 80
+  - B12:3: sudo ufw allow 443
+  - B12.4: sudo ufw status numbered
