@@ -7,5 +7,7 @@
 - B7: <b>node -v</b> (check version node)
 - B8: <b>sudo apt install git</b> (install git)
 - B9: <b>sudo npm install pm2 -g</b> (install pm2 runtime nodejs)
-- B10: clone repo github
+- B10: clone repo github 
+  - B10.1: <a target="_blank">https://www.loom.com/share/1220533bdfb14793b54b0e3797dd9f17</a>
+  - B10.2: git clone https://user:token@github.com/username_repo/name_repo.git
 - B11: <b>pm2 start index</b> (run app node with pm2)
