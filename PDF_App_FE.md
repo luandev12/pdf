@@ -1,0 +1,11 @@
+- B1: sudo apt update
+- B2: cd ~
+- B3: curl -sL https://deb.nodesource.com/setup_16.x -o nodesource_setup.sh
+- B4: nano nodesource_setup.sh
+- B5: sudo bash nodesource_setup.sh
+- B6: sudo apt install nodejs
+- B7: node -v
+- B8: sudo apt install git
+- B9: sudo npm install pm2 -g
+- B10: clone repo github
+- B11: pm2 start index
