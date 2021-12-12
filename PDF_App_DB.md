@@ -1,3 +1,7 @@
+- B0: Install Grafana cho 1 server BD hoac một server nào tuỳ ý :
+      - B0.1: https://gist.github.com/luandevpro/b474610aee3abc739e08a6051ca84175#file-terminal
+      - B0.2: https://gist.github.com/luandevpro/71629e24c5af8d799bc00dce7d199121#file-terminal1
+      - B0.3: https://gist.github.com/luandevpro/3eda66d8ba4720b54dad30e7e1bbed78#file-terminal2
 - B1: Để giám sát CPU vs RAM phần này ta sẽ install chung cho các 3 server là node exporter 
       mục đích của nó là monitor cpu vs ram để đẩy đến promotheus để lưu trữ 
   - B1.1: Install node exporter thông qa github :
