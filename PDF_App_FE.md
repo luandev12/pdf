@@ -1,4 +1,5 @@
-- B1: <b>sudo apt update</b> (install update cac package ubuntu)
+- B1.1: <b>sudo apt update</b> (install update cac package ubuntu)
+- B1.2: sudo apt-get upgrade
 - B2: <b>cd ~</b>
 - B3: <b>curl -sL https://deb.nodesource.com/setup_16.x -o nodesource_setup.sh</b> (wget source nodejs)
 - B4: <b>nano nodesource_setup.sh</b>
